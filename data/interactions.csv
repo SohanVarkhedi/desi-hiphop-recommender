@@ -1,10 +1,25 @@
 user_id,track,artist,rating
 1,Namastute,Seedhe Maut,5
-1,Jungli Sher,Divine,4
-1,No Losses,KR$NA,5
-2,Namastute,Seedhe Maut,4
-2,Class-Sikh,Prabh Deep,5
-2,Machayenge,Emiway,4
-3,No Losses,KR$NA,4
-3,GOAT,Diljit Dosanjh,4
-3,Gully Ka Kutta,Divine,4
+1,Khatta Flow,Seedhe Maut,4
+1,Insaan,Siyaahi,5
+1,No Losses,KR$NA,4
+
+2,Insaan,Siyaahi,4
+2,Khatta Flow,Seedhe Maut,5
+2,Prashn,Vichaar,4
+2,Karm,KR$NA,5
+
+3,Prashn,Vichaar,5
+3,Khoj,Naam Sujal,4
+3,Insaan,Siyaahi,4
+3,1 Se 23,Karma,5
+
+4,Khoj,Naam Sujal,5
+4,Namastute,Seedhe Maut,4
+4,Prashn,Vichaar,4
+4,1 Se 23,Karma,4
+
+5,Khatta Flow,Seedhe Maut,5
+5,Khoj,Naam Sujal,4
+5,Insaan,Siyaahi,4
+5,No Losses,KR$NA,5
